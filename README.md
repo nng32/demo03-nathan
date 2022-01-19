@@ -1,1 +1,2 @@
-# demo03-nathan
+# Demo for COMP-1800
+Nathan
